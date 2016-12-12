@@ -1,2 +1,1 @@
-# ctc
-Homebridge Cbus Test
+# CBus Test

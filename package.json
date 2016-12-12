@@ -1,0 +1,23 @@
+{
+  "name": “test”,
+  "version": "0.5.0",
+  "description": "CTC Test“,
+  "license": "MIT",
+  "keywords": [
+    “ctc”
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lcrowhurst/ctc.git"
+  },
+  "bugs": {
+    "url": "http://github.com/lcrowhurst/ctc/issues"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "dependencies": {
+    "carrier": "^0.3.0"
+  }
+}
